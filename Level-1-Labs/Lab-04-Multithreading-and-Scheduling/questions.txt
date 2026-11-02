@@ -1,0 +1,4 @@
+1. write a program to create 4 threads to calcu7late the sum of 10 intedgers in an arrsy (create a random array of 10 integers)(data parallelism)
+2. Query current default thread attributes and get the scheduler policy using pthread_attr_getschedpolicy() API. Look at the ma page to see how its used
+3. Get the exit status of each thread and print them
+4. Find the thread ID using the command "ps -T -P <PID>" where <PID> is the process ID of the main thread

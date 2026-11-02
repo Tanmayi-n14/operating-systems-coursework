@@ -1,0 +1,17 @@
+# Compiled object files and binaries
+*.o
+*.obj
+*.out
+*.exe
+*.app
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*~
